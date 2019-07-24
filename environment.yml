@@ -12,3 +12,4 @@ dependencies:
   - matplotlib==3.0.2
   - pip:
      - pymc3==3.6
+     - arviz==0.4.1
